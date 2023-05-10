@@ -24,4 +24,6 @@ Technical specifications: ```{input_text}```
 ```
 其中，`input_text`就是从模型页面拷贝的内容。因此，部分模型信息可能有误，也欢迎大家提出issue。
 
+上述抽取模型信息的完整代码请见`code/prompt_sample.ipynb`
+
 本文档中的`model_cards.md`文档将记录所有模型的概要信息，并在`model_info`目录下以表格的形式记录每一个模型的详细信息，欢迎大家一起贡献！
