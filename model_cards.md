@@ -16,3 +16,4 @@
 | Vicuna | Vicuna-7B | chat-finetuned | 70 | Apache 2.0 | N/A | LLaMA |
 | Vicuna | Vicuna-13B | chat-finetuned | 130 | Apache 2.0 | N/A | LLaMA |
 | Koala | Koala-13B | chat-finetuned | 130 | Apache 2.0 | N/A | LLaMA |
+| Dolly| Dolly 2.0 | instruction-finetuned | 120 | suitable for commercial use | Creative Commons Attribution-ShareAlike 3.0 Unported License | pythia |
