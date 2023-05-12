@@ -13,3 +13,6 @@
 |MPT| MPT-7B-Chat | Chat微调 | 67 | 未知 | CC-By-NC-SA-4.0 | MPT-7B Base |
 |StarCoder| StarCoder | 编程大模型 | 155 | BigCode OpenRAIL-M v1 license agreement | BigCode OpenRAIL-M v1 license agreement | 无 |
 |StarCoderBase | StarCoderBase |编程大模型 | 155 | BigCode OpenRAIL-M v1 license agreement | BigCode OpenRAIL-M v1 license agreement | 无 |
+| Vicuna | Vicuna-7B | chat-finetuned | 70 | Apache License 2.0 | N/A | LLaMA |
+| Vicuna | Vicuna-13B | chat-finetuned | 130 | Apache License 2.0 | N/A | LLaMA |
+| Koala | Koala-13B | chat-finetuned | N/A | Apache License 2.0 | N/A | LLaMA |
