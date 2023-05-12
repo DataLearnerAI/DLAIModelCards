@@ -1,4 +1,4 @@
-|模型系列|模型名称|模型类型|参数大小（亿）|代码开源协议|预训练结果开源协议 |基础模型|
+|模型系列|模型名称|模型类型|参数（亿）|代码开源协议|预训练结果开源协议 |基础模型|
 |:----|:----|:----|:----|:----|:----|:----|
 |RedPajama|RedPajama-INCITE-Base-3B-v1|大语言模型|28|Apache 2.0|Apache 2.0|无|
 |RedPajama|RedPajama-INCITE-Chat-3B-v1|Chat微调|28|Apache 2.0|Apache 2.0|RedPajama-INCITE-Base-3B-v1|
