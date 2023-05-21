@@ -1,5 +1,10 @@
-|模型系列|模型名称|模型类型|参数（亿）|代码开源协议|预训练结果开源协议 |基础模型|
-|:----|:----|:----|:----|:----|:----|:----|
+|模型系列|模型名称|模型类型|参数（亿）|代码开源协议|预训练结果开源协议 |基础模型|语言|
+|:----|:----|:----|:----|:----|:----|:----|:----|
+|GPT J| GPT-J-6B| 大语言模型 | 60 | Apache 2.0|Apache 2.0| 无 | English | 
+|GPT-NeoX| GPT-NeoX-20B| 大语言模型 | 200 | Apache 2.0|Apache 2.0| 无 | English | 
+|OPT| OPT| 大语言模型 | 1750 | Apache 2.0|Apache 2.0| 无 | English/Chinese | 
+|T5| Flan-T5| 大语言模型 | 110 | Apache 2.0|Apache 2.0| 无 | English/Chinese | 
+|BLOOM | BLOOM | 大语言模型 | 1760 | RAIL License v1.0|RAIL License v1.0| 无 | English/Chinese | 
 |RedPajama|RedPajama-INCITE-Base-3B-v1|大语言模型|28|Apache 2.0|Apache 2.0|无|
 |RedPajama|RedPajama-INCITE-Chat-3B-v1|Chat微调|28|Apache 2.0|Apache 2.0|RedPajama-INCITE-Base-3B-v1|
 |RedPajama|RedPajama-INCITE-Instruct-3B-v1|指令微调|28|Apache 2.0|Apache 2.0|RedPajama-INCITE-Base-3B-v1|
